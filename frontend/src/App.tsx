@@ -6,6 +6,7 @@ import './App.css'
 
 function App() {
   // main modify test and merge test
+  // branch commit test - feature/branch-commit-test
   const [count, setCount] = useState(0)
 
   return (
